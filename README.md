@@ -1,50 +1,64 @@
-<h1 align="center">Hi there 👋 I'm Ignacio Dodera</h1>
-<h3 align="center">Full Stack Developer from Uruguay 🇺🇾</h3>
+<!-- Encabezado animado y profesional -->
+<h1 align="center">✨ Hey there! I'm <span style="color:#F7DF1E;">Ignacio Dodera</span> 👨‍💻</h1>
+<h3 align="center">Full Stack Developer | React · Node.js · MySQL | 🇺🇾 Uruguay</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL;Passionate+about+learning+and+building" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🔍 About Me
 
-I'm a proactive, organized, and responsible developer who enjoys working in teams and constantly learning.  
-I’m passionate about building clean, functional web applications and love taking on new and dynamic challenges.  
-My goal is to contribute to meaningful projects, share my experience, and continue growing professionally and personally.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-</p>
+💬 I'm a **proactive** and **curious** full stack developer who loves building elegant and functional web applications.  
+🤝 Teamwork and collaboration are key values for me. I'm organized, adaptable and always looking for challenges.  
+🚀 My mission is to **learn every day**, grow professionally and contribute to impactful projects that make a difference.
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacioDodera&show_icons=true&theme=onedark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioDodera&theme=onedark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDodera&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mysql" />
 </p>
+
+🛠️ Tools I enjoy working with:
+- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Backend**: Node.js, Express.js
+- **Database**: MySQL
+- **Version Control**: Git & GitHub
+- **Soft Skills**: Communication, Teamwork, Problem-solving, Self-learning
 
 ---
 
-### 🌍 Let's Connect
+### 📈 My GitHub Stats
 
-<p align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignacioDodera&show_icons=true&theme=radical&hide_title=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignacioDodera&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacioDodera&layout=compact&theme=radical" height="150"/>
+</div>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ignacio-dodera-64917028a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="doderaignacio21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:doderaignacio21@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ignacioDodera" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<!-- Frase motivadora -->
+<p align="center">
+  <em>"Code is not just code, it's your story in logic and design."</em>
+</p>
+
