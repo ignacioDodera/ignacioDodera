@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Ignacio Dodera[Tu Nombre]</h1>
+<h1 align="center">Hola 👋, soy [Ignacio Dodera]</h1>
 <h3 align="center">Desarrollador Full Stack de Uruguay</h3>
 
 <p align="center">
